@@ -1,7 +1,9 @@
 ## SQL Police Department - Solutions
 
 SQL Police Department is an educational web site for learning or improving SQL through practical exercises in the form of “investigative cases.”
+
 These are the solution for all free cases. Furthermore, it is required to buy a license to continue to solve cases.
+
 I noticed that restarting the game several times changes the context and variables for solving cases, but the structure of the queries remains the same.
 
 ###### Case #1
